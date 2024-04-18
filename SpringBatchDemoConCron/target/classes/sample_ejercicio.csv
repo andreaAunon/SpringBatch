@@ -1,0 +1,4 @@
+operation,username,password,email
+INSERT,admin2,admin2,admin2@group.com
+UPDATE,userEjercicio,userEjercicio,userEjercicio@group.com
+DELETE,admin2,admin2,admin2@group.com

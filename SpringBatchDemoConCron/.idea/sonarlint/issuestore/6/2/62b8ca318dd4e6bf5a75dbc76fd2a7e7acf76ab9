@@ -1,0 +1,10 @@
+
+=	java:S131#""Add a default case to this switch.(ÃÈŸL8öÆö…ï1
+M
+java:S1172F"+Remove this unused method parameter "user".(Ä›˜²øÿÿÿÿ8ÿÆö…ï1
+M
+java:S1172J"+Remove this unused method parameter "user".(Ã´†²ùÿÿÿÿ8€Çö…ï1
+H
+java:S1172N"+Remove this unused method parameter "user".(µù»8Çö…ï1
+‘
+java:S1128"oRemove this unused import 'org.springframework.batch.item.database.BeanPropertyItemSqlParameterSourceProvider'.(¢ò‡Òùÿÿÿÿ8É•«†ï1

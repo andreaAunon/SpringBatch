@@ -1,0 +1,8 @@
+D:\Dev\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\dto\User.java
+D:\Dev\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\model\UserEntity.java
+D:\Dev\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\listener\UserExecutionListener.java
+D:\Dev\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\config\batch\BatchConfiguration.java
+D:\Dev\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\processor\UserProcessor.java
+D:\Dev\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\DemoSpringBatchApplication.java
+D:\Dev\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\tasklet\ShowUserInfoTasklet.java
+D:\Dev\SpringBatchDemo\src\main\java\es\neesis\demospringbatch\config\datasource\DatasourceConfiguration.java
